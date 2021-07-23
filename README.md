@@ -1,4 +1,7 @@
 # CS330
+# Computational Graphics and Visualization 
+# created realistic, interactive three-dimensional objects through the use of application programming interface (API) libraries and best practices. Also develop fully formed graphic applications that meet project requirements.
+
 #How do I approach designing software?
 #Designing software is perhaps a technique used in various places. I see this as an oppurtunity to develop my skills.
 #What new design skills has your work on the project helped you to craft?
